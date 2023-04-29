@@ -6,13 +6,16 @@ Asking Clarifying Question in an Open Domain Dialogue System
 
 The ClariQ dataset contists of:
 
-User Request: an initial user request in the conversational form
+
+**User Request** : an initial user request in the conversational form
  e.g. What is Fickle Creek Farm, with a label reflects if clarification is needed ranged from 1 to 4.
  
-Clarification questions: a set of possible clarifying questions.
+ 
+**Clarification questions**: a set of possible clarifying questions.
 e.g. do you want to know the location of fickle creek farm?
 
-User Answers: each questions is supplied with a user answer.
+
+**User Answers**: each questions is supplied with a user answer.
 e.g. no i want to find out where can i purchase fickle creek farm products.
 
 We broadly divide our task into two parts:
